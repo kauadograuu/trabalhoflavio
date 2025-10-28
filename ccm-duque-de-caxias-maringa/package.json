@@ -1,0 +1,23 @@
+{
+  "name": "ccm-duque-de-caxias-maringa",
+  "version": "1.0.0",
+  "description": "Site sobre o CCM Duque de Caxias em Maringá, Paraná.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "CCM",
+    "Duque de Caxias",
+    "Maringá",
+    "Paraná",
+    "website"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
